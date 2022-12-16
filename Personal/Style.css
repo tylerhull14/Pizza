@@ -1,0 +1,63 @@
+.listheader {
+    font-size: x-large;
+    font-weight: bold; 
+    color: white;
+    font-style: italic;
+  }
+
+.normalletter{
+    font-size: small;
+    font-weight: 200;
+}
+  
+.lettercolor{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    left: 200px;
+}
+
+  
+.backround {
+    background-image: url(./pizzabackround.jpeg);
+    background-repeat: repeat;
+}
+
+.backtotop{
+    text-align: center;
+    font-style: italic;
+    position: fixed;
+    bottom: 1mm;
+}
+
+.title{
+    text-align: center;
+    font-size: 2cm;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+}
+
+.mywebsite{
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.youtube{
+    border-width: 3mm;
+    border-color: white;
+    border-style: solid;
+    text-align: center;
+}
+
+.pizza{
+    top: 3cm;
+    position: absolute;
+}
+
+.tableau{
+    align-self: center;
+    position: absolute;
+}
